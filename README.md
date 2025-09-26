@@ -2,12 +2,12 @@
 First Repository  
 
 ## Table of Contents  
-- [Project Title](Project-Title)  
-- [Description](description)  
-- [Tools Used](tools-used)  
-- [Files Used](files-used) 
-- [How to Run Program](how-to-run-program)  
-- [Additional Information](additional-information)  
+- [Project Title](#Project-Title)  
+- [Description](#Description)  
+- [Tools Used](#Tools-Used)  
+- [Files Used](#Files-Used) 
+- [How to Run Program](#How-to-Run-Program)  
+- [Additional Information](#Additional-Information)  
 
 ## Project Title
 This is an outline of my first GitHub project titled 'Hello-World'.  
