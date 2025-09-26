@@ -2,7 +2,7 @@
 First Repository  
 
 ## Table of Contents  
-- [Project Title](project-title)  
+- [Project Title](Project-Title)  
 - [Description](description)  
 - [Tools Used](tools-used)  
 - [Files Used](files-used) 
